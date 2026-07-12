@@ -1,0 +1,123 @@
+{
+  "fx_rates": {
+    "saved_at": "2026-07-10T19:32:38.671917+00:00",
+    "value": {
+      "USD": {
+        "currency": "USD",
+        "egp_per_unit": 49.56,
+        "source_ticker": "USDEGP=X",
+        "retrieved_at": "2026-07-10T19:32:36.605916+00:00",
+        "date": "2026-07-10",
+        "calculation_method": "direct"
+      },
+      "EUR": {
+        "currency": "EUR",
+        "egp_per_unit": 56.6343,
+        "source_ticker": "EUREGP=X",
+        "retrieved_at": "2026-07-10T19:32:36.751918+00:00",
+        "date": "2026-07-10",
+        "calculation_method": "direct"
+      },
+      "GBP": {
+        "currency": "GBP",
+        "egp_per_unit": 66.4642,
+        "source_ticker": "GBPEGP=X",
+        "retrieved_at": "2026-07-10T19:32:36.894919+00:00",
+        "date": "2026-07-10",
+        "calculation_method": "direct"
+      },
+      "SAR": {
+        "currency": "SAR",
+        "egp_per_unit": 13.2009,
+        "source_ticker": "SARUSD=X",
+        "retrieved_at": "2026-07-10T19:32:37.751917+00:00",
+        "date": "2026-07-10",
+        "calculation_method": "cross_via_usd"
+      },
+      "AED": {
+        "currency": "AED",
+        "egp_per_unit": 13.4934,
+        "source_ticker": "AEDUSD=X",
+        "retrieved_at": "2026-07-10T19:32:38.671917+00:00",
+        "date": "2026-07-10",
+        "calculation_method": "cross_via_usd"
+      }
+    }
+  },
+  "egyptian_gold_prices": {
+    "saved_at": "2026-07-10T19:32:42.961916+00:00",
+    "value": {
+      "24k": 6640.0,
+      "21k": 5810.0,
+      "18k": 4980.0,
+      "gold_pound": 46480.0,
+      "currency": "EGP",
+      "source": "local_scrape",
+      "source_url": "https://www.isagha.com/prices",
+      "retrieved_at": "2026-07-10T19:32:38.674916+00:00",
+      "date": "2026-07-10",
+      "confidence": "high"
+    }
+  },
+  "financial_news": {
+    "saved_at": "2026-07-10T19:32:44.737917+00:00",
+    "value": [
+      {
+        "title": "US confirm Pulisic leg fracture in defeat by Belgium",
+        "description": "The United States confirm that forward Christian Pulisic fractured his leg during his side's 4-1 defeat by Belgium in the World Cup last 16.",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/cq613v53emlo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "published_at": "2026-07-09T19:32:34Z"
+      },
+      {
+        "title": "Fed’s Warsh taps broad group of central bank outsiders to oversee review",
+        "description": "Musk calls rival Anthropic the current frontrunner in AI\nBy Howard Schneider\nWASHINGTON, July 9 (Reuters) - Federal Reserve Chairman Kevin Warsh tapped a broad and intellectually diverse group of economists and former central bankers to oversee the five task …",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e49641ba17f05d54",
+        "published_at": "2026-07-09T19:32:19Z"
+      },
+      {
+        "title": "'American houses are for American people': Trump housing chief insists immigration crackdown will lower costs",
+        "description": "HUD Secretary Scott Turner says illegal immigration drove up home prices and rents, arguing American houses should be reserved for American people.",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/american-houses-american-people-trump-housing-chief-insists-immigration-crackdown-lower-costs",
+        "published_at": "2026-07-09T19:32:05Z"
+      },
+      {
+        "title": "Treasure Hunters Win $26K From FBI in Gold Dispute",
+        "description": "Treasure hunters who say the FBI secretly hauled away Civil War gold from a Pennsylvania hillside have scored a modest but symbolic payoff. The Justice Department has agreed to give Dennis Parada and his son $26,000 to cover legal costs, ending their Freedom …",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/392557/treasure-hunters-win-26k-from-fbi-in-gold-dispute.html",
+        "published_at": "2026-07-09T19:32:00Z"
+      },
+      {
+        "title": "3 LSU Veterans Ready for Their Best Seasons Yet",
+        "description": "LSU football has a couple of veteran players hanging over from 2025 who are ready for the next step.",
+        "source": "Sports Illustrated",
+        "url": "https://www.si.com/college/lsu/football/3-lsu-veterans-ready-for-their-best-seasons-yet",
+        "published_at": "2026-07-09T19:31:32Z"
+      },
+      {
+        "title": "The Emmy Narratives Behind Every Streaming Service This Year",
+        "description": "HBO Max has earned 122 Emmy nods this year, Netflix 111, and Apple TV 87. But beyond the raw tallies, here’s what each streaming platform’s nominations actually say about them.",
+        "source": "Vulture",
+        "url": "http://www.vulture.com/article/streaming-services-emmy-nominations-2026.html",
+        "published_at": "2026-07-09T19:30:05Z"
+      },
+      {
+        "title": "US confirm Pulisic leg fracture in defeat by Belgium",
+        "description": "The United States confirm that forward Christian Pulisic fractured his leg during his side's 4-1 defeat by Belgium in the World Cup last 16.",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq613v53emlo",
+        "published_at": "2026-07-09T19:28:14Z"
+      },
+      {
+        "title": "'Free Davey!': Olympian Pleads Not Guilty to Charges That He Vandalized Reflecting Pool",
+        "description": "As supporters gathered outside the courthouse in support, former Olympic canoe racer David \"Davey\" Hearn pleaded not guilty on Thursday after being charged by the Trump administration with vandalizing the Lincoln Memorial Reflecting Pool.Last week, Jeanine Pi…",
+        "source": "Common Dreams",
+        "url": "https://www.commondreams.org/news/davey-hearn-pleads-not-guilty",
+        "published_at": "2026-07-09T19:27:31Z"
+      }
+    ]
+  }
+}
